@@ -1,9 +1,9 @@
 {
     "name": "kingamda-x",
-    "description": "kingamda is a chat bot for WhatsApp".,
+    "description": "kingamda is a chat bot for WhatsApp".
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai", "alpha", "node.js", "fb", "wtzp", "userbot", "insta", "srilanka", "keywords", "team"],
         
-    ],
+    
     "website": "https://github.com/NishNishendanidu/botwhatsapp.git",
     "logo": "https://i.ibb.co/QYVDSSY/Photo-1859807427.jpg",
     "success_url": "https://dashboard.heroku.com/apps/",
