@@ -89,7 +89,7 @@
         },
         "GAN_IMAGE": {
             "description": "No need to change.",
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://i.ibb.co/mC4F1T3/Photo-1859807427.jpg"
         },
         "HANDLERS": {
             "description": "Enter bot prefix to use commands. (Don't delete ^[ ])",
@@ -113,12 +113,12 @@
         "MAX_SIZE": {
             "description": "Set maximum media file sending size. Type size in MB. To best performance keep 90mb.",
             "required": true,
-            "value": "90"
+            "value": "9000"
         },
         "MENU": {
             "description": "Set your command to get full command list.",
             "required": true,
-            "value": "panel"
+            "value": "menu"
         },
         "MUTE_MESSAGE": {
             "description": "The message that appears when typing the '.mute' command. If you do not want to change it, keep 'default'.",
